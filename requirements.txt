@@ -1,0 +1,14 @@
+# --- Core App & Data Handling ---
+streamlit
+pandas
+numpy
+
+# --- Financial Calculations ---
+numpy-financial
+
+# --- Machine Learning Model ---
+# scikit-learn includes joblib, RandomForestRegressor, etc.
+scikit-learn
+
+# --- Google Cloud AI & LLM ---
+google-cloud-aiplatform
