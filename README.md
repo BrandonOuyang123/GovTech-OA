@@ -10,7 +10,5 @@ Outlining my full approach:
 
 For scaling:
 - map out singapore HDBs, and present the visualisation of BTOs on a map with its resale pricing, expandable highlights
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/46ce3c3a-bae1-42f9-9c4e-b586ea17faf0" />
-
 - More in-depth research on factors affecting pricing such as using location to calculate shortest distance to nearby amenities like supermarkets, malls and mrts
-- 
+- scoping with clients to determine the use case of this product
