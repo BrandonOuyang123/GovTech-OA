@@ -12,3 +12,6 @@ For scaling:
 - map out singapore HDBs, and present the visualisation of BTOs on a map with its resale pricing, expandable highlights
 - More in-depth research on factors affecting pricing such as using location to calculate shortest distance to nearby amenities like supermarkets, malls and mrts
 - scoping with clients to determine the use case of this product
+
+I have masked the PROJECT-ID and LOCATION. Please refer to the docs for how the streamlit app looks like as well as its output. I can showcase the actual app during the interview!
+https://docs.google.com/document/d/1gK6yhkgLufKffaDMh7T2n3n1E0PsL3OhNIFEtkLTUHA/edit?usp=sharing
